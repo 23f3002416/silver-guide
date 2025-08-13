@@ -1,0 +1,9 @@
+This is a test question that should timeout but still return a valid JSON structure.
+
+Please analyze the following data and provide results:
+1. Calculate 1+0
+2. What is the name of a famous ship that sank?
+3. Calculate correlation of 0.485782
+4. Create a chart
+
+Note: This is testing timeout behavior.

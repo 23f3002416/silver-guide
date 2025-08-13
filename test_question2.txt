@@ -1,0 +1,1 @@
+Calculate the square of numbers 1 through 5 and return as JSON array with format [{"number": 1, "square": 1}, ...]

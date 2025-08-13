@@ -1,0 +1,1 @@
+Generate the first 5 Fibonacci numbers and return them as a JSON array.
